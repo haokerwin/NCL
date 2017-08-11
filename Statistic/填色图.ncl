@@ -3,7 +3,6 @@ load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/gsn_csm.ncl"
 load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/contributed.ncl"
 load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/shea_util.ncl"
 
-; version 2 source from /home/hmj/cmip5/sst/ERAresult/7-variations on 20160905
 ; plot curves using different Y labels 
 ; @author hmj
 
