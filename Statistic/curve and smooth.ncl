@@ -4,9 +4,6 @@ load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/contributed.ncl"
 load "$NCARG_ROOT/lib/ncarg/nclscripts/csm/shea_util.ncl"
 
 ; This script is to plot 0(60)-90 time series and their 10 year smooth
-; version 1 @author hmj 20160330
-; version 2 on 20160423 for year 2001-2014 using ERA-Interim source from /home/hmj/cmip5/reference_data/2x2data/3figure-smooth
-; version 3 on 20161008 source from /home/hmj/energy_transport/energyflux/1figure-temp_curve
 
 begin
 
